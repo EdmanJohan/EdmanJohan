@@ -1,5 +1,5 @@
 ### Hey there 👋
-- 👨‍💻 I'm currently an MSc student @ [KTH](https://kth.se/en) in Sweden, studying [Communications systems](https://www.kth.se/en/studies/master/communication-systems) with focus on security. 
+- 👨‍💻 M.Sc.Eng. Degree from [KTH](https://kth.se/en) in Sweden, 2022, studied [Communications systems](https://www.kth.se/en/studies/master/communication-systems) with focus on security. 
 - 🤔 Current interests are mainly: fiddling with IoT, learning [.NET](https://dotnet.microsoft.com/en-us/), docker and secure and resilient infrastructure.  
 Some nice courses I've taken during my studies:
   - [x] [EN2720 Ethical Hacking](https://www.kth.se/student/kurser/kurs/EN2720?l=en)
